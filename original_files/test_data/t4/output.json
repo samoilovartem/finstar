@@ -1,0 +1,13 @@
+{
+    "id": 2511481,
+    "type": "Application::Mobile",
+    "salary": 30000,
+    "score": 0.03182439999999964,
+    "pd": 0.5079554285781763,
+    "result": 1,
+    "Result_adj": 0,
+    "max_loan_amount": 0,
+    "Important_emotions": [
+        "CALM"
+    ]
+}

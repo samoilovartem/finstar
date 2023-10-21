@@ -1,0 +1,38 @@
+{
+    "score": 0.03182439999999964,
+    "result": "1",
+    "result_details": {
+        "products": [
+            {
+                "loan_terms": [
+                    10
+                ],
+                "product_code": 99,
+                "max_loan_amount": 1000
+            }
+        ],
+        "up_stage": "Scoring main checks"
+    },
+    "additional_data": {
+        "olp_score_logs": {
+            "app_variables": {
+                "age_gender": 6,
+                "doc_type_bad": 0,
+                "salary_group": 4,
+                "web_geo_good": 1,
+                "address_lower": 1,
+                "address_title": 0,
+                "doc_type_good": 0,
+                "soc_status_bad": 0,
+                "mobile_geo_good": 0,
+                "soc_status_good": 1,
+                "fullname_is_lower": 1,
+                "fullname_is_upper": 0,
+                "address_length_good": 0,
+                "address_grouped_dots_good": 0,
+                "address_grouped_commas_bad": 1,
+                "address_grouped_commas_good": 0
+            }
+        }
+    }
+}

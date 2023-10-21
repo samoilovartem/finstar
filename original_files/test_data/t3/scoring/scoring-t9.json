@@ -1,0 +1,30 @@
+{
+    "score": 0.3788343999999998,
+    "result": "0",
+    "result_details": {
+        "products": [],
+        "up_stage": "Scoring main checks"
+    },
+    "additional_data": {
+        "olp_score_logs": {
+            "app_variables": {
+                "age_gender": 5,
+                "doc_type_bad": 0,
+                "salary_group": 2,
+                "web_geo_good": 0,
+                "address_lower": 0,
+                "address_title": 0,
+                "doc_type_good": 1,
+                "soc_status_bad": 1,
+                "mobile_geo_good": 0,
+                "soc_status_good": 0,
+                "fullname_is_lower": 0,
+                "fullname_is_upper": 0,
+                "address_length_good": 0,
+                "address_grouped_dots_good": 0,
+                "address_grouped_commas_bad": 1,
+                "address_grouped_commas_good": 0
+            }
+        }
+    }
+}

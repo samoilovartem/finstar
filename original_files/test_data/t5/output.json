@@ -1,0 +1,14 @@
+{
+    "id": 2511449,
+    "type": "Application::Web",
+    "salary": 40000,
+    "score": 0.6885243999999998,
+    "pd": 0.6656385918345697,
+    "result": 1,
+    "Result_adj": 0,
+    "max_loan_amount": 0,
+    "Important_emotions": [
+        "SAD",
+        "CALM"
+    ]
+}

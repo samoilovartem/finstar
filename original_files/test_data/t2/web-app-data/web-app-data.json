@@ -1,0 +1,68 @@
+{
+    "id": 2511340,
+    "type": "Application::Web",
+    "salary": 5000,
+    "aws_selfie_recognition_data": {
+        "faces": {
+            "face_details": [
+                {
+                    "pose": {
+                        "yaw": 2.547398567199707,
+                        "roll": -1.0358402729034424,
+                        "pitch": 11.341682434082031
+                    },
+                    "beard": {
+                        "value": true,
+                        "confidence": 75.49655151367188
+                    },
+                    "smile": {
+                        "value": false,
+                        "confidence": 94.65158081054688
+                    },
+                    "gender": {
+                        "value": "Male",
+                        "confidence": 99.98361206054688
+                    },
+                    "quality": {
+                        "sharpness": 83.14741516113281,
+                        "brightness": 88.24718475341797
+                    },
+                    "emotions": [
+                        {
+                            "type": "CALM",
+                            "confidence": 80.54107666015625
+                        },
+                        {
+                            "type": "CONFUSED",
+                            "confidence": 9.023478507995605
+                        },
+                        {
+                            "type": "SURPRISED",
+                            "confidence": 8.905892372131348
+                        },
+                        {
+                            "type": "FEAR",
+                            "confidence": 6.013443470001221
+                        },
+                        {
+                            "type": "SAD",
+                            "confidence": 2.6656227111816406
+                        },
+                        {
+                            "type": "ANGRY",
+                            "confidence": 2.642563819885254
+                        },
+                        {
+                            "type": "DISGUSTED",
+                            "confidence": 0.7821435332298279
+                        },
+                        {
+                            "type": "HAPPY",
+                            "confidence": 0.6484754085540771
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
